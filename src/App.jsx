@@ -1,7 +1,5 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-i
-
 
 import './App.css'
 
